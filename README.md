@@ -1,164 +1,153 @@
-::: {align="center"}
-# REVATI JAGTAP
+<div align="center">
 
-### Machine Learning Engineer · NLP & Applied AI
+REVATI JAGTAP
 
-**Building practical, production-oriented AI systems across Machine
-Learning, NLP, Deep Learning and Generative AI.**
+Machine Learning Engineer · NLP & Applied AI
 
-[GitHub](https://github.com/revatij0303) ·
-[LinkedIn](https://www.linkedin.com/in/revati-jagtap-3b5a15214) ·
-[Email](mailto:revatij0303@gmail.com)
+Building practical, production-oriented AI systems across Machine Learning, NLP, Deep Learning and Generative AI.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit
-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-:::
+GitHub · LinkedIn · Email
 
-------------------------------------------------------------------------
 
-## PROFILE
 
-Machine Learning Engineer with an **MSc in Machine Learning (Merit)**
-from **Royal Holloway, University of London**, experienced in developing
-machine learning, NLP and AI-powered applications.
+
+
+
+
+
+
+</div>
+
+PROFILE
+
+Machine Learning Engineer with an MSc in Machine Learning (Merit) from Royal Holloway, University of London, experienced in developing machine learning, NLP and AI-powered applications.
 
 I work across the ML lifecycle:
 
-**Data → Feature Engineering → Model Development → Evaluation →
-Inference → API Integration → Application**
+Data → Feature Engineering → Model Development → Evaluation → Inference → API Integration → Application
 
-My focus is **Applied AI, production-oriented ML systems, NLP, LLM
-applications and intelligent backend services**.
+My focus is Applied AI, production-oriented ML systems, NLP, LLM applications and intelligent backend services.
 
-------------------------------------------------------------------------
+CORE EXPERTISE
 
-## CORE EXPERTISE
+Machine Learning
 
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%">
-```
-### Machine Learning
+Supervised & Unsupervised Learning
 
--   Supervised & Unsupervised Learning
--   Feature Engineering
--   Hyperparameter Tuning
--   Cross-Validation
--   Model Evaluation
+Feature Engineering
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%">
-```
-### Deep Learning
+Hyperparameter Tuning
 
--   PyTorch
--   CNNs
--   Backpropagation
--   Transfer Learning
--   Neural Networks
+Cross-Validation
 
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-### NLP & Generative AI
+Model Evaluation
 
--   LLMs
--   LangChain
--   BERT / GPT
--   Sentence Transformers
--   TF-IDF
--   Prompt Engineering
+Deep Learning
 
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-### ML Engineering
+PyTorch
 
--   End-to-End ML Pipelines
--   FastAPI / Flask
--   Django REST Framework
--   REST APIs
--   Model Inference
--   PostgreSQL
+CNNs
 
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
+Backpropagation
 
-------------------------------------------------------------------------
+Transfer Learning
 
-# SELECTED WORK
+Neural Networks
 
-## 01 · Healthcare AI & Clinical ML
+NLP & Generative AI
 
-**Software Development Intern · Welldone Health**
+LLMs
 
-Developing healthcare backend capabilities and integrating AI/ML
-workflows into clinical applications.
+LangChain
 
-**Engineering areas** - Electronic Health Record workflows -
-Prescription workflows - AI-powered clinical suggestion APIs - ML-based
-disease prediction - Dosage recommendation - EMR data processing -
-Medical OCR and structured investigation extraction - PostgreSQL-backed
-data handling
+BERT / GPT
 
-**System direction**
+Sentence Transformers
 
-``` text
-Clinical Data → Data Processing → ML / AI Services → REST APIs → Clinical Application
-```
+TF-IDF
 
-------------------------------------------------------------------------
+Prompt Engineering
 
-## 02 · AI Resume Analyser
+ML Engineering
 
-**Python · FastAPI · Streamlit · Sentence Transformers · TF-IDF ·
-LangChain**
+End-to-End ML Pipelines
 
-AI-powered application for analysing resumes against job descriptions
-and generating actionable candidate insights.
+FastAPI / Flask
 
-**Implemented** - Resume parsing and file upload - Semantic and
-keyword-based matching - Candidate scoring and ranking - ATS-oriented
-scoring - Matched / missing skill identification - LLM-based
-evaluation - Personalised improvement recommendations - FastAPI REST
-backend - Streamlit interface
+Django REST Framework
 
-**Pipeline**
+REST APIs
 
-``` text
+Model Inference
+
+PostgreSQL
+
+SELECTED WORK
+
+01 · Healthcare AI & Clinical ML
+
+Software Development Intern · Welldone Health
+
+Developing healthcare backend capabilities and integrating AI/ML workflows into clinical applications.
+
+Engineering areas
+
+Electronic Health Record workflows
+
+Prescription workflows
+
+AI-powered clinical suggestion APIs
+
+ML-based disease prediction
+
+Dosage recommendation
+
+EMR data processing
+
+Medical OCR and structured investigation extraction
+
+PostgreSQL-backed data handling
+
+System direction
+
+Clinical Data
+      ↓
+Data Processing
+      ↓
+ML / AI Services
+      ↓
+REST APIs
+      ↓
+Clinical Application
+
+02 · AI Resume Analyser
+
+Python · FastAPI · Streamlit · Sentence Transformers · TF-IDF · LangChain
+
+AI-powered application for analysing resumes against job descriptions and generating actionable candidate insights.
+
+Implemented
+
+Resume parsing and file upload
+
+Semantic and keyword-based matching
+
+Candidate scoring and ranking
+
+ATS-oriented scoring
+
+Matched / missing skill identification
+
+LLM-based evaluation
+
+Personalised improvement recommendations
+
+FastAPI REST backend
+
+Streamlit interface
+
+Pipeline
+
 Resume + Job Description
           ↓
     NLP Processing
@@ -168,65 +157,86 @@ Resume + Job Description
       LLM Evaluation
           ↓
  Score + Recommendations
-```
 
-------------------------------------------------------------------------
+03 · Customer Churn Prediction
 
-## 03 · Customer Churn Prediction
+Python · Scikit-learn · Gradient Boosting · Feature Engineering
 
-**Python · Scikit-learn · Gradient Boosting · Feature Engineering**
+End-to-end supervised ML pipeline for identifying customers with a higher probability of churn.
 
-End-to-end supervised ML pipeline for identifying customers with a
-higher probability of churn.
+Implemented
 
-**Implemented** - Feature selection and engineering - Hyperparameter
-tuning - Cross-validation - Gradient Boosting classification -
-Minority-class recall optimisation - Classification evaluation
+Feature selection and engineering
 
-**Result:** **75% accuracy** with improved minority-class recall.
+Hyperparameter tuning
 
-------------------------------------------------------------------------
+Cross-validation
 
-## 04 · Phishing URL & Email Detection
+Gradient Boosting classification
 
-**Python · Random Forest · Feature Engineering · ROC-AUC**
+Minority-class recall optimisation
 
-Supervised ML system for identifying potentially malicious URLs and
-phishing emails.
+Classification evaluation
 
-**Implemented** - URL and email feature engineering - Random Forest
-classification - k-fold cross-validation - ROC-AUC evaluation -
-Precision / Recall / F1 analysis - Confusion matrix evaluation
+Result: 75% accuracy with improved minority-class recall.
 
-------------------------------------------------------------------------
+04 · Phishing URL & Email Detection
 
-# TECHNOLOGY STACK
+Python · Random Forest · Feature Engineering · ROC-AUC
 
-::: {align="center"}
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit
-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-:::
+Supervised ML system for identifying potentially malicious URLs and phishing emails.
 
-------------------------------------------------------------------------
+Implemented
 
-# ENGINEERING APPROACH
+URL and email feature engineering
 
-I focus on moving beyond isolated notebooks and model experiments toward
-**complete ML/AI workflows**.
+Random Forest classification
 
-``` text
+k-fold cross-validation
+
+ROC-AUC evaluation
+
+Precision / Recall / F1 analysis
+
+Confusion matrix evaluation
+
+TECHNOLOGY STACK
+
+Languages
+
+
+
+
+Machine Learning & Data
+
+
+
+
+
+
+NLP / Generative AI
+
+
+
+
+Backend & APIs
+
+
+
+
+
+Databases & Engineering
+
+
+
+
+
+
+
+ENGINEERING APPROACH
+
+I focus on moving beyond isolated notebooks and model experiments toward complete ML/AI workflows.
+
 Problem Definition
        ↓
 Data Preparation
@@ -242,82 +252,55 @@ Inference
 REST API / Backend
        ↓
 Application Workflow
-```
 
-------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
 
-# PROFESSIONAL EXPERIENCE
+Software Development Intern · Welldone Health
 
-### Software Development Intern · Welldone Health
+June 2026 – Present
 
-**June 2026 -- Present**
+Working on healthcare backend and AI/ML integration, including EHR workflows, prescription systems, medical OCR, clinical suggestion APIs, ML-based prediction services and PostgreSQL-backed processing.
 
-Working on healthcare backend and AI/ML integration, including EHR
-workflows, prescription systems, medical OCR, clinical suggestion APIs,
-ML-based prediction services and PostgreSQL-backed processing.
+Machine Learning Intern · Webmobi03
 
-### Machine Learning Intern · Webmobi03
+February 2026 – May 2026 · Remote, India
 
-**February 2026 -- May 2026 · Remote, India**
+Worked on machine learning systems and model lifecycle workflows in a live production environment.
 
-Worked on machine learning systems and model lifecycle workflows in a
-live production environment.
+Built an AI Resume Analyser using LLMs, NLP and LangChain, with ML outputs exposed through FastAPI and presented through Streamlit.
 
-Built an **AI Resume Analyser** using LLMs, NLP and LangChain, with ML
-outputs exposed through FastAPI and presented through Streamlit.
+EDUCATION
 
-------------------------------------------------------------------------
+MSc — Machine Learning · Merit
 
-# EDUCATION
+Royal Holloway, University of London
 
-### MSc --- Machine Learning · Merit
+Dissertation: End-to-End Machine Learning Pipeline for Predictive Modelling using NLP and Deep Learning
 
-**Royal Holloway, University of London**
+B.Tech — Computer Engineering
 
-**Dissertation:** End-to-End Machine Learning Pipeline for Predictive
-Modelling using NLP and Deep Learning
+Bhujbal Knowledge City, MET · Maharashtra
 
-### B.Tech --- Computer Engineering
+GPA: 8.23 / 10
 
-**Bhujbal Knowledge City, MET · Maharashtra**
+CURRENT DIRECTION
 
-**GPA: 8.23 / 10**
+Production ML · Applied AI · NLP · LLM Applications · RAG · Deep Learning · ML APIs · AI System Architecture
 
-------------------------------------------------------------------------
+CONNECT
 
-# CURRENT DIRECTION
+<div align="center">
 
-**Production ML** · **Applied AI** · **NLP** · **LLM Applications** ·
-**RAG** · **Deep Learning** · **ML APIs** · **AI System Architecture**
-
-------------------------------------------------------------------------
-
-# CONNECT
-
-::: {align="center"}
-**Open to opportunities in Machine Learning, Applied AI, NLP and AI
-Engineering.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revati-jagtap-3b5a15214)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revatij0303)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revatij0303@gmail.com)
-:::
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-**Machine Learning · Applied AI · NLP · Deep Learning · Generative AI**
-:::
+Open to opportunities in Machine Learning, Applied AI, NLP and AI Engineering.
 
 
-Connect
 
-GitHub: github.com/revatij0303
 
-LinkedIn:
-linkedin.com/in/revati-jagtap-3b5a15214
 
-Email: revatij0303@gmail.com
+</div>
 
-Building machine learning systems that move from models and
-experiments to usable AI applications.
+<div align="center">
+
+Machine Learning · Applied AI · NLP · Deep Learning · Generative AI
+
+</div>
