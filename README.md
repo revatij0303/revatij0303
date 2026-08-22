@@ -1,115 +1,216 @@
-Revati Jagtap
+REVATI JAGTAP
 
-Machine Learning Engineer | NLP & Applied AI
+Machine Learning Engineer · NLP & Applied AI
+
+Building practical, production-oriented AI systems across Machine
+Learning, NLP, Deep Learning and Generative AI.
+
+GitHub: github.com/revatij0303
+
+LinkedIn:linkedin.com/in/revati-jagtap-3b5a15214
+
+Email: revatij0303@gmail.com
+
+
+
+
+
+
+
+
+:::
+
+PROFILE
 
 Machine Learning Engineer with an MSc in Machine Learning (Merit)
-from Royal Holloway, University of London, focused on building practical
-machine learning, NLP, deep learning, and AI-powered applications.
+from Royal Holloway, University of London, experienced in developing
+machine learning, NLP and AI-powered applications.
 
-I work across the ML lifecycle --- from data preparation, feature
-engineering, model development and evaluation to API integration and
-production-oriented deployment.
+I work across the ML lifecycle:
 
-Professional Focus
+Data → Feature Engineering → Model Development → Evaluation →
+Inference → API Integration → Application
 
-Area                                Focus
+My focus is Applied AI, production-oriented ML systems, NLP, LLM
+applications and intelligent backend services.
 
-Machine Learning                Supervised & Unsupervised Learning,
-                                Feature Engineering, Hyperparameter
-                                Tuning, Cross-Validation
+CORE EXPERTISE
 
-Deep Learning                   PyTorch, CNNs, Backpropagation,
+<table>
+
+<tr>
+
+<td width="50%">
+
+Machine Learning
+
+Supervised & Unsupervised Learning
+
+Feature Engineering
+
+Hyperparameter Tuning
+
+Cross-Validation
+
+Model Evaluation
+
+</td>
+
+<td width="50%">
+
+Deep Learning
+
+PyTorch
+
+CNNs
+
+Backpropagation
+
 Transfer Learning
 
-NLP & GenAI                     LLMs, LangChain, BERT, GPT, Prompt
-                                Engineering, Sentence Transformers,
-                                 TF-IDF
+Neural Networks
 
-Applied AI                      Healthcare AI, document
-                                intelligence, clinical ML
-                                workflows, AI-powered applications
+</td>
 
-ML Engineering                  End-to-end pipelines, model
-                                inference, REST APIs, backend
-                                integration
+</tr>
 
-Selected Work:
+<tr>
 
-"AI Resume Analyser"
+<td>
+
+NLP & Generative AI
+
+LLMs
+
+LangChain
+
+BERT / GPT
+
+Sentence Transformers
+
+TF-IDF
+
+Prompt Engineering
+
+</td>
+
+<td>
+
+ML Engineering
+
+End-to-End ML Pipelines
+
+FastAPI / Flask
+
+Django REST Framework
+
+REST APIs
+
+Model Inference
+
+PostgreSQL
+
+</td>
+
+</tr>
+
+</table>
+
+SELECTED WORK
+
+01 · Healthcare AI & Clinical ML
+
+Software Development Intern · Welldone Health
+
+Developing healthcare backend capabilities and integrating AI/ML
+workflows into clinical applications.
+
+Engineering areas - Electronic Health Record workflows -
+Prescription workflows - AI-powered clinical suggestion APIs - ML-based
+disease prediction - Dosage recommendation - EMR data processing -
+Medical OCR and structured investigation extraction - PostgreSQL-backed
+data handling
+
+System direction
+
+Clinical Data → Data Processing → ML / AI Services → REST APIs → Clinical Application
+
+02 · AI Resume Analyser
 
 Python · FastAPI · Streamlit · Sentence Transformers · TF-IDF ·
 LangChain
 
-An AI-powered application for analysing resumes against job descriptions
+AI-powered application for analysing resumes against job descriptions
 and generating actionable candidate insights.
 
-Implemented: - Resume parsing and file upload - Semantic and
+Implemented - Resume parsing and file upload - Semantic and
 keyword-based matching - Candidate scoring and ranking - ATS-oriented
-scoring - Matched and missing skill identification - LLM-based
+scoring - Matched / missing skill identification - LLM-based
 evaluation - Personalised improvement recommendations - FastAPI REST
 backend - Streamlit interface
 
-Pipeline:
+Pipeline
 
-Resume + Job Description → NLP Processing → Semantic Matching → LLM Evaluation → Score & Recommendations
+Resume + Job Description
+          ↓
+    NLP Processing
+          ↓
+ Semantic / Keyword Matching
+          ↓
+      LLM Evaluation
+          ↓
+ Score + Recommendations
 
-"Customer Churn Prediction"
+03 · Customer Churn Prediction
 
 Python · Scikit-learn · Gradient Boosting · Feature Engineering
 
-End-to-end supervised machine learning pipeline for identifying
-customers with a higher probability of churn.
+End-to-end supervised ML pipeline for identifying customers with a
+higher probability of churn.
 
-Implemented: - Feature selection - Feature engineering -
-Hyperparameter tuning - Cross-validation - Gradient Boosting
-classification - Minority-class recall optimisation - Model evaluation
-using classification metrics
+Implemented - Feature selection and engineering - Hyperparameter
+tuning - Cross-validation - Gradient Boosting classification -
+Minority-class recall optimisation - Classification evaluation
 
-Result: 75% accuracy with improved minority-class recall for
-identifying potential churn customers.
+Result: 75% accuracy with improved minority-class recall.
 
-"Phishing URL & Email Detection"
+04 · Phishing URL & Email Detection
 
-Python · Random Forest · Feature Engineering · ROC-AUC · k-Fold
-Cross-Validation
+Python · Random Forest · Feature Engineering · ROC-AUC
 
-Supervised machine learning system for detecting potentially malicious
-URLs and phishing emails.
+Supervised ML system for identifying potentially malicious URLs and
+phishing emails.
 
-Implemented: - URL and email feature engineering - Random Forest
+Implemented - URL and email feature engineering - Random Forest
 classification - k-fold cross-validation - ROC-AUC evaluation -
-Precision, recall and F1-score analysis - Confusion matrix evaluation
+Precision / Recall / F1 analysis - Confusion matrix evaluation
+
+TECHNOLOGY STACK
+
+::: {align="center"}
 
 
-Technical Stack
 
-Languages                  Python SQL
 
-Machine Learning          Scikit-learn Gradient Boosting Feature Engineering
-                          Hyperparameter Tuning Cross-Validation
 
-Deep Learning             PyTorch CNNs Transfer Learning Backpropagation
 
-NLP & Generative AI       LangChain LLMs BERT GPT Sentence Transformers TF-IDF
 
-Prompt Engineering        Text Classification
 
-Data & Evaluation         NumPy Pandas Matplotlib Seaborn EDA ROC-AUC F1-Score
-                          Precision Recall Confusion Matrix
 
-Backend & Deployment      FastAPI Django REST Framework Flask Streamlit REST APIs
 
-Tools                     Git GitHub Postman Jupyter Notebook Google Colab VS Code PyCharm
 
-Approach:
 
-I focus on building ML systems that go beyond model training:
+
+:::
+
+ENGINEERING APPROACH
+
+I focus on moving beyond isolated notebooks and model experiments toward
+complete ML/AI workflows.
 
 Problem Definition
        ↓
 Data Preparation
-       ↓
-Exploratory Data Analysis
        ↓
 Feature Engineering
        ↓
@@ -117,68 +218,65 @@ Model Development
        ↓
 Validation & Evaluation
        ↓
-Inference Pipeline
+Inference
        ↓
-REST API / Backend Integration
+REST API / Backend
        ↓
 Application Workflow
 
-My current direction is toward production-oriented Machine Learning
-and Applied AI, where model development is combined with reliable
-APIs, backend systems, data pipelines, and real application workflows.
+PROFESSIONAL EXPERIENCE
 
-Experience
-
-Software Development Intern --- Welldone Health
+Software Development Intern · Welldone Health
 
 June 2026 -- Present
 
 Working on healthcare backend and AI/ML integration, including EHR
 workflows, prescription systems, medical OCR, clinical suggestion APIs,
-ML-based prediction services, and PostgreSQL-backed data processing.
+ML-based prediction services and PostgreSQL-backed processing.
 
-Machine Learning Intern --- Webmobi03
+Machine Learning Intern · Webmobi03
 
-February 2026 -- May 2026 | Remote, India
+February 2026 -- May 2026 · Remote, India
 
 Worked on machine learning systems and model lifecycle workflows in a
 live production environment.
 
-Built an AI Resume Analyser using LLMs, NLP, and LangChain, with ML
+Built an AI Resume Analyser using LLMs, NLP and LangChain, with ML
 outputs exposed through FastAPI and presented through Streamlit.
 
-Education
+EDUCATION
 
-MSc --- Machine Learning
+MSc --- Machine Learning · Merit
 
-Royal Holloway, University of London --- Merit
+Royal Holloway, University of London
 
 Dissertation: End-to-End Machine Learning Pipeline for Predictive
 Modelling using NLP and Deep Learning
 
 B.Tech --- Computer Engineering
 
-Bhujbal Knowledge City, MET, Maharashtra --- GPA: 8.23/10
+Bhujbal Knowledge City, MET · Maharashtra
 
-Current Technical Direction
+GPA: 8.23 / 10
 
-I am continuing to deepen my work in:
+CURRENT DIRECTION
 
-Production Machine Learning
+Production ML · Applied AI · NLP · LLM Applications ·
+RAG · Deep Learning · ML APIs · AI System Architecture
 
-NLP and LLM applications
+CONNECT
 
-Retrieval-Augmented Generation (RAG)
+::: {align="center"}
+Open to opportunities in Machine Learning, Applied AI, NLP and AI
+Engineering.
 
-AI-powered backend systems
 
-Deep Learning
 
-Model evaluation and reliability
 
-ML API development
+:::
 
-End-to-end AI system architecture
+::: {align="center"}
+Machine Learning · Applied AI · NLP · Deep Learning · Generative AI
 
 Connect
 
